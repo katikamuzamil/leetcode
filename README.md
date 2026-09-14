@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/katikamuzamil/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/katikamuzamil/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/katikamuzamil/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/katikamuzamil/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/katikamuzamil/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/katikamuzamil/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/katikamuzamil/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/katikamuzamil/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Binary Search
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/katikamuzamil/leetcode/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/katikamuzamil/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
