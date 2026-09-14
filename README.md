@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/katikamuzamil/leetcode/tree/master/0836-rectangle-overlap) |
 | [1510-stone-game-iv](https://github.com/katikamuzamil/leetcode/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/katikamuzamil/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/katikamuzamil/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
